@@ -1,1 +1,1 @@
-# Pytorch from Scratch
+# Implementation of various DL models and Python concepts
